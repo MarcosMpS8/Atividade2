@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "c4+pUOGZNF0qBpZ6MHKFjB6vJvCnp3E4SmbQSCByY0k=",
+  "Source": "Atividade  2",
+  "BasePath": "_content/Atividade  2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Atividade  2\\wwwroot",
+      "Source": "Atividade  2",
+      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Atividade  2\\wwwroot\\",
+      "BasePath": "_content/Atividade  2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Usuario\\Desktop\\Atividade  2\\wwwroot\\index.html",
+      "SourceId": "Atividade  2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Atividade  2\\wwwroot\\",
+      "BasePath": "_content/Atividade  2",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

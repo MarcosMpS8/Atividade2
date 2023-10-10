@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\Atividade  2\bin\Release\net7.0\publish\Atividade  2.exe
+C:\Users\Usuario\Desktop\Atividade  2\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\Usuario\Desktop\Atividade  2\bin\Release\net7.0\publish\appsettings.json
+C:\Users\Usuario\Desktop\Atividade  2\bin\Release\net7.0\publish\Atividade  2.dll
+C:\Users\Usuario\Desktop\Atividade  2\bin\Release\net7.0\publish\Atividade  2.deps.json
+C:\Users\Usuario\Desktop\Atividade  2\bin\Release\net7.0\publish\Atividade  2.runtimeconfig.json
+C:\Users\Usuario\Desktop\Atividade  2\bin\Release\net7.0\publish\Atividade  2.pdb
+C:\Users\Usuario\Desktop\Atividade  2\bin\Release\net7.0\publish\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Atividade  2\bin\Release\net7.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\Atividade  2\bin\Release\net7.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\Atividade  2\bin\Release\net7.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\Atividade  2\bin\Release\net7.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Atividade  2\bin\Release\net7.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
